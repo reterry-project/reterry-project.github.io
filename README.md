@@ -10,5 +10,4 @@ Finished projects, subject to change but finished for the most part.
 
 ### Indev
 In development - may be abandoned at any time
-- Super Haxxegon (abandoned?)
 - Airplane Adventures
