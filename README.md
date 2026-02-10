@@ -1,4 +1,6 @@
-reTerry is a project dedicated to reverse-engineer "Terry Engine" based programs.
+reTerry is a project dedicated to decompile "Terry Engine" Adobe Flash games. 
+
+This is a one man project, so be patient as these things take time!
 
 [Ethos](/ethos) - [YouTube](/yt)
 
