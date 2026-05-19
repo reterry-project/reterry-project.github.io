@@ -1,4 +1,4 @@
-reTerry is a project dedicated to decompile "Terry Engine" Adobe Flash games. 
+reTerry is a project dedicated to decompile some Adobe Flash games based on Terry Cavanagh's engine. 
 
 This is a one man project, so be patient as these things take time!
 
