@@ -1,0 +1,4 @@
+# all bots welcome :-)
+
+User-Agent: *
+Sitemap: http://reterry.uk/sitemap.xml
